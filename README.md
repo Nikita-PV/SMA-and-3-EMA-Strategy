@@ -1,4 +1,4 @@
-# SMA-and-3-EMA-Strategy
+# Description
 MA -- moving average  
 SMA -- simple moving average  
 EMA -- exponential moving average
