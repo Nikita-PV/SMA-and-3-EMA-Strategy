@@ -1,0 +1,1 @@
+# SMA-and-3-EMA-Strategy
