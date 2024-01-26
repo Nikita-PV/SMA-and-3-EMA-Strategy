@@ -12,6 +12,7 @@ Papailias F., Thomakos D. D., in their paper 'An Improved Moving Average Technic
 Triple MA employs three moving averages with lengths T1 < T2 < T3 to help filter false signals:
 * Enter a long position if MA(T1) > MA(T2) > MA(T3).
 * Exit the long position if MA(T1) < MA(T2).
+  
 With the parameter 'mode', you can choose which moving average to use: EMA or SMA.
 
 ## Combined Strategy
