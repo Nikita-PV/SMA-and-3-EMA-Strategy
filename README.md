@@ -23,4 +23,4 @@ To filter returns, ARMA-GARCH was used.
 
 ## Backtest Metrics
 For backtesting, metrics such as Value at Risk (VaR), Expected Shortfall (ES), Sharpe ratio, 
-Rachev ratio, market beta, maximum drawdown, and cumulative returns were used.
+Rachev ratio, market beta, maximum drawdown (MDD), cumulative returns and cumulative return to MDD were used.
